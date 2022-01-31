@@ -37,4 +37,6 @@ let Shuinore = new CreateMan()
 Shuinore.createDay();
 ```
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/453576139240112138?hideDiscrim=true)](https://discord.com/users/453576139240112138)
+
 <img src="https://komarev.com/ghpvc/?username=Shuinore&label=Ziyaretçi%20Sayısı&color=723F98" alt="Shuinore"/>
