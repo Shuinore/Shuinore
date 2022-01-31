@@ -1,8 +1,9 @@
 ```js
 class Shuinore {
   constructor(...options) {
-    this.height = "1.69"
+    this.height = "1.71"
     this.weight = "64"
+    this.age = "17"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
