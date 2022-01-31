@@ -37,4 +37,4 @@ let Shuinore = new CreateMan()
 Shuinore.createDay();
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Shuinore&label=Ziyaretçi%20Sayısı&color=8747B8" alt="Shuinore"/>
+<img src="https://komarev.com/ghpvc/?username=Shuinore&label=Ziyaretçi%20Sayısı&color=723F98" alt="Shuinore"/>
