@@ -38,7 +38,7 @@ let Shuinore = new CreateMan()
 Shuinore.createDay();
 ```
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/453576139240112138?hideDiscrim=true)](https://discord.com/users/453576139240112138)
+[![Discord Presence](https://lanyard.cnrad.dev/api/453576139240112138)](https://discord.com/users/453576139240112138)
 
 ## 🔧 Languages
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen)
