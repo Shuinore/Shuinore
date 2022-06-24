@@ -3,7 +3,7 @@
 ```js
 class Shuinore {
   constructor(...options) {
-    this.height = "1.71"
+    this.height = "1.74"
     this.weight = "64"
     this.age = "17"
     this.type = "human"
