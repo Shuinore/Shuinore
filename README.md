@@ -22,10 +22,14 @@
     <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="oracle" width="40" height="40"/> </a>
   </p>
 
+  ###
+
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuinore&show_icons=true&theme=dark&locale=en&layout=compact" alt="shuinore" /></p>
 
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shuinore&show_icons=true&locale=en" alt="shuinore" /></p>
 
-  ---
+  [![Discord Presence](https://lanyard.cnrad.dev/api/453576139240112138)](https://discord.com/users/4535761392401121)
+  
+  </div>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/453576139240112138)](https://discord.com/users/4535761392401121
+  ---
